@@ -19,6 +19,12 @@ ros slam toolbox - sudo apt-get install ros-humble-slam-toolbox
 ros teleop twist keyboard- sudo apt install ros-humble-teleop-twist-keyboard
 
 
+now download and extract the zip file into your ros2_ws/src or use the clone option:
+
+cd ros2_ws/src/
+
+
+
 cd ros2_ws/
 
 colcon build
