@@ -6,12 +6,16 @@ for more information about turtlebot3:
 
 requirments:
 ros2 humble - https://docs.ros.org/en/humble/Installation.html
+
 gazebo - https://gazebosim.org/docs
 
 the following ros packages are required: 
 gazebo_ros_pkgs - sudo apt install ros-humble-gazebo-ros-pkgs
+
 ros navigation2 -  sudo apt install ros-humble-navigation2 ros-humble-nav2-bringup
+
 ros slam toolbox - sudo apt-get install ros-humble-slam-toolbox
+
 ros teleop twist keyboard- sudo apt install ros-humble-teleop-twist-keyboard
 
 
