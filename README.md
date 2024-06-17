@@ -23,7 +23,9 @@ ros teleop twist keyboard- sudo apt install ros-humble-teleop-twist-keyboard
 
 now download and extract the zip file into your ros2_ws/src or use the clone option:
 in the terminal copy the following lines:
+
 cd ros2_ws/src/
+
 git clone https://github.com/yaronbay/project-turtlebot3-mapping-and-navigating.git
 
 now fo back to your workspace and build:
