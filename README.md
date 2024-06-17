@@ -64,6 +64,6 @@ now press add in the left side of the window, then in the new window enter "by t
 
 ros2 topic echo /imu 
 
-for the following part i didnt managed to set the nav2 packaged properly and i had trouble with the cpp node- had problames to call certain libraries, unfortunatley i coudlnt solve these problems on time so currently itispossible tomove the robot only manualy with the teleop_twist_keyboard
+for the following part i didnt managed to set the nav2 packaged properly and i had trouble with the cpp node- had problems to call certain libraries, unfortunatley i coudlnt solve these problems on time so currently it is possible to move the robot only manualy with the teleop_twist_keyboard
 
 *two more minor problems that i have noticed is that the robot is not spwaning in the beginning and the map building visualization is not static in rviz, those problems are worth to mention but overall not that significant.
