@@ -29,7 +29,9 @@ cd ros2_ws/src/
 git clone https://github.com/yaronbay/project-turtlebot3-mapping-and-navigating.git
 
 now fo back to your workspace and build:
+
 cd ..
+
 (before building make sure to be in the ros2_ws directory)
 
 colcon build
