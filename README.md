@@ -2,8 +2,10 @@
 this project is about mapping and navigating in a map with obsticales
 in this project i use the turtulebot3 (waffle model) package via ros2 humble distribution and gazebo fortress
 for more information about turtlebot3:
+
 https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
-u have use the skelaton to this package and created/added/edited/deleted files so the package can execute the assingment
+
+i have used the skelaton to this package and created/added/edited/deleted files so the package can execute the assingment
 
 requirments:
 ros2 humble - https://docs.ros.org/en/humble/Installation.html
