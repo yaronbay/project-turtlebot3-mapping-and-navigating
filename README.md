@@ -2,7 +2,8 @@
 this project is about mapping and navigating in a map with obsticales
 in this project i use the turtulebot3 (waffle model) package via ros2 humble distribution and gazebo fortress
 for more information about turtlebot3:
-
+https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
+u have use the skelaton to this package and created/added/edited/deleted files so the package can execute the assingment
 
 requirments:
 ros2 humble - https://docs.ros.org/en/humble/Installation.html
@@ -17,7 +18,6 @@ ros navigation2 -  sudo apt install ros-humble-navigation2 ros-humble-nav2-bring
 ros slam toolbox - sudo apt-get install ros-humble-slam-toolbox
 
 ros teleop twist keyboard- sudo apt install ros-humble-teleop-twist-keyboard
-
 
 
 
